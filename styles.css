@@ -1,0 +1,156 @@
+body {
+    color: #40541e;
+    margin: 0;
+    text-align: center;
+    font-family: Montserrat;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Parisienne', cursive;
+}
+
+h2 {
+    color: #66bfbf;
+    font-family: Montserrat;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #11999E;
+    font-family: Montserrat;
+}
+
+
+.container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 70px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.middle-container {
+    margin: 100px 0 100px 0;
+}
+
+.text-container-1 {
+
+}
+
+.width-1 {
+    width: 30%;
+    margin: 0 auto 0 auto;
+    line-height: 2;
+}
+
+.Jawad {
+    font-family: 'Bilbo Swash Caps', cursive;
+}    
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.mountain {
+    max-width: 110%;
+}
+
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 150px auto;
+    text-align: left;
+    line-height: 1.5;
+    font-weight: normal;
+    text-rendering: auto;
+}
+
+.code-img1 {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.clear {
+    text-align: justify;
+}
+
+.code-img2 {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.pen-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.free {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: justify;
+    line-height: 2;
+}
+
+.contact-me {
+    width: 50%;
+    margin: 40px auto 40px;
+    text-align: center;
+    line-height: 2;
+}
+
+.btn {
+    color: #FFFFFF !important;
+  font-size: 19px;
+  padding: 11px 34px;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  background: #11CDD4;
+  text-decoration: none;
+}
+
+.btn:hover {
+    background: #2CB4ED;
+    color: #fff;
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+
+a {
+    color: #11999e;
+    text-decoration: none;
+    margin: 10px 20px;
+    font-family: Montserrat;
+}
+
+a:hover {
+    color: azure;
+}
+
+.copyright {
+    color: #eaf6f6;
+    font-size: 0,75rem;
+}
+
+
